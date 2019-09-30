@@ -1,4 +1,4 @@
-# ccoc
+# Community Code of Conduct (CCOC)
 
 **The Short Version: Be a Good Human.** 
 
