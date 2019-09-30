@@ -1,5 +1,7 @@
 # Community Code of Conduct (CCOC)
 
+This document originates from work led by Eiko Kawano [over here](https://ps.blog/2019/09/24/community-code-of-conduct-psx/) together with a host of Publicis Sapient team members.
+
 **The Short Version: Be a Good Human.** 
 
 * **We think before we type.** We avoid language (and actions) that are discriminatory, hurtful and that exclude others. We remember that there are human beings on the other end of our words.  
